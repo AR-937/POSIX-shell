@@ -30,3 +30,20 @@ Start by cloning the repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/shell.git
 cd shell
+```
+
+### Compile the Project
+
+To compile the shell, use `gcc`(or any other C compiler):
+
+```bash
+gcc main.c -o shell
+```
+
+### Run the Shell
+
+After compiling, you can run the shell by executing the following command:
+
+```bash
+./shell
+```
