@@ -63,4 +63,4 @@ Once the shell is running, you can interact with it by typing commands. It will 
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, feel free to fork the repository and submit a pull request. All contributions will be reviewed and considered for inclusion.
+Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, feel free to fork the repository and submit a pull request.
