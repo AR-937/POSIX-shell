@@ -47,3 +47,20 @@ After compiling, you can run the shell by executing the following command:
 ```bash
 ./shell
 ```
+
+## Usage
+
+Once the shell is running, you can interact with it by typing commands. It will behave similarly to a standard Unix shell, executing both built-in and external commands.
+
+### Example Commands
+
+- `pwd` - Prints the current working directory.
+- `echo Hello, World!` - Outputs `Hello, World!` to the terminal.
+- `cd /path/to/directory` - Changes the current directory to the specified path.
+- `ls > output.txt` - Redirects the output of the `ls` command to a file named `output.txt`.
+- `ls 2> error.txt` - Redirects the error output of the `ls` command to a file named `error.txt`.
+- `cat < input.txt` - Redirects the contents of `input.txt` to the `cat` command as input.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements, bug fixes, or new features, feel free to fork the repository and submit a pull request. All contributions will be reviewed and considered for inclusion.
